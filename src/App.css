@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  margin: 10px;
+  padding: 8px;
+  width: 200px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+h1 {
+  color: #333;
+}
+
+h3 {
+  color: #000;
+}
+
+p {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+p strong {
+  font-weight: normal;
+  color: #333;
+}
